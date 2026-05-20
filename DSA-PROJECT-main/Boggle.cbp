@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SpellChecker" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc-mingw32" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SpellChecker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw32" />
+				<Compiler>
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SpellChecker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw32" />
+				<Compiler>
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Unit filename="include/AutoSolve.h" />
+		<Unit filename="include/DictionaryTrie.h" />
+		<Unit filename="include/Grid.h" />
+		<Unit filename="include/GridSolver.h" />
+		<Unit filename="include/Grid_Generator.h" />
+		<Unit filename="include/InputGrid.h" />
+		<Unit filename="include/Maxheap.h" />
+		<Unit filename="include/Node.h" />
+		<Unit filename="include/UserSolve.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/AutoSolve.cpp" />
+		<Unit filename="src/DictionaryTrie.cpp" />
+		<Unit filename="src/Grid.cpp" />
+		<Unit filename="src/GridSolver.cpp" />
+		<Unit filename="src/Grid_Generator.cpp" />
+		<Unit filename="src/InputGrid.cpp" />
+		<Unit filename="src/Maxheap.cpp" />
+		<Unit filename="src/Node.cpp" />
+		<Unit filename="src/UserSolve.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

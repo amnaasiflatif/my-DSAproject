@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1765340796 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\spellchecker\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"DictionaryTrie.h"
+	"GridSolver.h"
+	"Grid_Generator.h"
+	<ctime>
+
+1765143783 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\spellchecker\include\dictionarytrie.h
+	"Node.h"
+	<string>
+	<vector>
+
+1765138523 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\spellchecker\include\node.h
+
+1765154796 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\spellchecker\include\gridsolver.h
+	"Node.h"
+	<iostream>
+	"vector"
+	<string>
+	"windows.h"
+	"DictionaryTrie.h"
+
+1765171016 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\spellchecker\include\grid_generator.h
+	<vector>
+	<string.h>
+	"DictionaryTrie.h"
+	"Maxheap.h"
+	"windows.h"
+
+1765145692 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\spellchecker\include\maxheap.h
+	<vector>
+	<string>
+
+1765144097 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\spellchecker\src\dictionarytrie.cpp
+	"DictionaryTrie.h"
+
+1765340530 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\spellchecker\src\grid_generator.cpp
+	"Grid_Generator.h"
+	"DictionaryTrie.h"
+	<iostream>
+	<vector>
+	<string.h>
+	<fstream>
+
+1765154808 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\spellchecker\src\gridsolver.cpp
+	"GridSolver.h"
+	<iostream>
+	"vector"
+	<string>
+	"Node.h"
+	"DictionaryTrie.h"
+	"windows.h"
+
+1765150803 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\spellchecker\src\maxheap.cpp
+	"Maxheap.h"
+	<vector>
+	<string>
+	<iostream>
+
+1765139010 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\spellchecker\src\node.cpp
+	"Node.h"
+
+1765649136 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<InputGrid.h>
+	<GridSolver.h>
+	<Grid_Generator.h>
+	<AutoSolve.h>
+	<UserSolve.h>
+	<ctime>
+
+1765555848 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\include\dictionarytrie.h
+	<Node.h>
+	<string>
+	<vector>
+
+1765645436 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\include\gridsolver.h
+	<iostream>
+	<vector>
+	<string>
+	<Grid.h>
+	<DictionaryTrie.h>
+
+1765546501 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\include\grid_generator.h
+	<iostream>
+	<vector>
+	<string.h>
+	<Grid.h>
+	<fstream>
+	<windows.h>
+	<Maxheap.h>
+
+1765534824 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\src\maxheap.cpp
+	"Maxheap.h"
+
+1765534977 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\include\maxheap.h
+	<iostream>
+	<vector>
+	<string>
+
+1765541189 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\src\node.cpp
+	"Node.h"
+
+1765535635 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\include\node.h
+
+1765547853 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\include\grid.h
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+
+1765555831 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\src\dictionarytrie.cpp
+	"DictionaryTrie.h"
+
+1765647862 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\src\grid_generator.cpp
+	"Grid_Generator.h"
+
+1765644560 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\src\inputgrid.cpp
+	"InputGrid.h"
+
+1765609422 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\include\inputgrid.h
+	<iostream>
+	<vector>
+	<string>
+	<Grid.h>
+
+1765644408 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\src\grid.cpp
+	"Grid.h"
+
+1765647416 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\src\usersolve.cpp
+	"UserSolve.h"
+
+1765548821 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\include\usersolve.h
+	<iostream>
+	<windows.h>
+	<GridSolver.h>
+	<Grid.h>
+	<Node.h>
+
+1765648423 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\src\autosolve.cpp
+	"AutoSolve.h"
+
+1765562006 c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\include\autosolve.h
+	<GridSolver.h>
+	<Node.h>
+	<Grid.h>
+	<windows.h>
+
+1765645496 source:c:\users\hp\onedrive\pictures\documents\semester no 3\dsa theory\semester project\boggle\src\gridsolver.cpp
+	"GridSolver.h"
+
